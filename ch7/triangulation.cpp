@@ -1,5 +1,6 @@
 #include <iostream>
 #include <opencv2/opencv.hpp>
+#include "opencv2/imgcodecs/legacy/constants_c.h"
 // #include "extra.h" // used in opencv2
 using namespace std;
 using namespace cv;

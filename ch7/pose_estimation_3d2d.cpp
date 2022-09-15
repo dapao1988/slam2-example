@@ -13,6 +13,7 @@
 #include <g2o/solvers/dense/linear_solver_dense.h>
 #include <sophus/se3.hpp>
 #include <chrono>
+#include "opencv2/imgcodecs/legacy/constants_c.h"
 
 using namespace std;
 using namespace cv;
